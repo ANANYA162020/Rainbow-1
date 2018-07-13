@@ -1,2 +1,2 @@
 # Rainbow
-Rainbow song
+a Rainbow song on colours
